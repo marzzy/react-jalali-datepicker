@@ -1,6 +1,6 @@
 {
-  "name": "react-jalali-datepicker",
-  "version": "0.2.66",
+  "name": "react-jalali-datepicker-m",
+  "version": "0.2.67",
   "private": false,
   "description": "a Simple and Flexible Datepicker for react and react-native",
   "main": "./dist/index.js",
@@ -25,7 +25,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/a-m-dev/react-jalali-datepicker.git"
+    "url": "https://github.com/hosseiniMajd/react-jalali-datepicker.git"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
