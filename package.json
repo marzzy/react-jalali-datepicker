@@ -1,6 +1,6 @@
 {
   "name": "react-jalali-datepicker-m",
-  "version": "0.2.67",
+  "version": "0.2.68",
   "private": false,
   "description": "a Simple and Flexible Datepicker for react and react-native",
   "main": "./dist/index.js",
@@ -13,7 +13,7 @@
     "build:publish": "npm run pre:build && npm run prune:lib && cd Datepicker/ && npm run build",
     "build:publish:legacy": "rm -rf dist && mkdir dist && babel ./src/js/Components/Datepicker -d dist --copy-files"
   },
-  "author": "Ahmad Mirzaei (@a_m_dev)",
+  "author": "Ahmad Mirzaei (@a_m_dev) & Najmah Majd(@hosseiniMajd)",
   "license": "ISC",
   "keywords": [
     "datepicker",

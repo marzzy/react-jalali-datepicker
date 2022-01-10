@@ -1,13 +1,13 @@
 {
   "name": "react-jalali-datepicker-m",
-  "version": "0.2.67",
+  "version": "0.2.68",
   "private": false,
   "description": "a Simple and Flexible Datepicker for react and react-native",
   "main": "./lib/RangePicker.js",
   "scripts": {
     "build": "webpack"
   },
-  "author": "Ahmad Mirzaei (@a_m_dev)",
+  "author": "Ahmad Mirzaei (@a_m_dev) & Najmah Majd(@hosseiniMajd)",
   "license": "ISC",
   "keywords": [
     "datepicker",
